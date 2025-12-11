@@ -1,7 +1,7 @@
 # RadVLM-GRPO
 
 ## Overview
-<img src="images/RadVLM-GRPO.png" width="50%">
+<img src="images/RadVLM-GRPO.png" width="100%">
 
 ## Results
 ### Report Generation
