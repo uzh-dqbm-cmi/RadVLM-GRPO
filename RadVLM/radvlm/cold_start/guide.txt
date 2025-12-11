@@ -1,0 +1,233 @@
+1.2. A Systematic Assessment
+We present a systematic approach to the analysis of chest radiographs (Table 1.1). This should begin with an assessment of technical aspects of the radiographic study including patient positioning, mediastinal penetration, sharpness of structures (to detect motion), lung volumes, and presence of artifacts to allow for accurate detection of abnormalities. The orderly assessment of each anatomic region and structure will yield a comprehensive imaging evaluation, will allow identification of subtle abnormalities, and will minimize interpretive errors. The following must be evaluated in each chest radiograph: support and monitoring devices (if present), chest wall, heart and mediastinum, hila, lungs, airways, pleura, and diaphragm.
+
+Table 1.1  
+Systematic analysis of chest radiographs  
+
+| Component evaluated        | Assessment                                                                                             |
+|-----------------------------|--------------------------------------------------------------------------------------------------------|
+| Technical quality           | Positioning, penetration, motion, lung volumes, artifacts                                              |
+| Support/monitoring devices  | ET/NG tube, vascular catheters, pacemaker                                                              |
+| Chest wall                  | Absence of normal contour, swelling, mass, calcification, air, osseous abnormality                     |
+| Mediastinum                 | Cardiomegaly, mass, widening, position, calcification, air                                             |
+| Hila                        | Height (right vs left), size, density, contour                                                         |
+| Lungs                       | Atelectasis<br>Air space opacities Interstitial lung disease<br>Focal opacities (solitary pulmonary nodules/masses)<br>Abnormal lucency—localized/unilateral/diffuse |
+| Airways                     | Tracheal diameter, course, nodule/mass<br>Bronchiectasis                                               |
+| Pleura/diaphragm            | Costal/diaphragmatic/fissural pleural surfaces<br>Diaphragmatic contour/position                      |
+
+1.3. Technical Quality (Table 1.2)
+The initial evaluation of any chest radiograph should include a determination of the technical adequacy of the examination to confirm that it is of adequate quality for interpretation. This step is often overlooked, which can lead to both overdiagnosis (as low lung volume may simulate lung disease) and underdiagnosis (motion or rotation may limit proper evaluation of the lungs, mediastinum, and hila). There are five main factors to be assessed.
+
+Table 1.2  
+Evaluating the technical adequacy of chest radiographs  
+
+| Technical parameter | Assessment                                      |
+|---------------------|-------------------------------------------------|
+| Positioning         | Rotation, kyphosis/lordosis                    |
+| Penetration         | Visualization of vertebral interspaces         |
+| Motion              | Sharpness of hemidiaphragms, ribs, vessels     |
+| Lung volumes        | Position of diaphragm relative to ribs         |
+| Artifacts           | Detector drops, grid lines                     |
+
+On a properly positioned frontal chest radiograph, the spinous processes should align with an imaginary vertical line drawn midway between the clavicular heads. The dorsal wrists should be placed on the waist with elbows oriented anteriorly to rotate the scapulae laterally so that they are not superimposed on the upper lungs. Radiographic penetration should allow faint visualization of the vertebral bodies and disc spaces through the mediastinum, with the lungs gray in density and the pulmonary vessels easily seen. Motion is detected by noting the sharpness of the superior cortices of the ribs, vessel margins, and diaphragmatic contours. Proper inspiration is assessed by noting the position of the top of the right hemidiaphragm with respect to the ribs; this point should correspond to the sixth anterior rib or tenth posterior rib at the mid-clavicular line. Artifacts including faulty detectors or visible grid lines can be seen in the digital radiography systems used for obtaining virtually all conventional chest radiographs in a modern radiology department.
+
+Key Point
+Evaluation of proper chest radiographic technique involves analysis of patient positioning, proper mediastinal penetration, absence of motion, adequate lung volumes, and the detection of artifacts.
+
+1.4. Support/Monitoring Devices (Tubes/Lines/Catheters/Pacemakers) (Table 1.3)
+Chest radiographs, particularly those obtained in a critical care setting, can demonstrate a broad array of different tubes, vascular catheters, cardiac pacemakers/defibrillators, and other monitoring or therapeutic devices. While in the hospital setting, chest radiographs are typically obtained to confirm proper positioning and to exclude complications following placement of a tube or line; the recognition of one or more of these devices can provide important clues to underlying disease entities.
+
+Table 1.3  
+Common support/monitoring devices on chest radiography  
+
+| Device                  | Normal appearance                                                                                                   |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------|
+| Endotracheal tube        | The tip should project within the trachea approximately 3–5 cm above the carina when the neck is in a neutral position. It should lie midline, following the tracheal air column without deviating into a main bronchus. |
+| Nasogastric feeding tube | The tube should descend the midline through the esophagus, cross the diaphragm centrally, and terminate within the stomach, typically below the left hemidiaphragm. The side hole (if visible) should be well below the gastroesophageal junction. |
+| Central venous catheter  | The catheter should follow a venous course (via the internal jugular, subclavian, or femoral vein) and terminate within the lower superior vena cava or at the cavoatrial junction. The tip should not extend into the right atrium or azygos vein. |
+| Pacemaker/defibrillator  | The generator should be seen in the anterior chest wall (usually left-sided). Leads should course via the subclavian or cephalic vein into the right atrium and/or right ventricle, depending on device type. No lead fracture, displacement, or looping should be present. |
+| Chest tube               | The tube should course within the pleural space, following the chest wall without kinking or subcutaneous placement. For pneumothorax drainage, the tip should be directed anterosuperiorly; for pleural effusion drainage, inferoposteriorly. Side holes should remain within the thoracic cavity. |
+
+
+1.5. Chest Wall
+The symmetry of normal chest wall structures such as the breast shadows in females and the spine, ribs, and shoulders should be analyzed to detect chest wall abnormalities. Poland syndrome is a congenital anomaly in which there is unilateral underdevelopment of the musculature of the chest wall. Nonsurgical absence of a portion of a rib or vertebral body may be instrumental in making the diagnosis of malignancy. Congenital deformities such as pectus excavatum can mimic middle lobe disease, as this chest wall deformity creates a vague opacity overlying the region of the middle lobe on frontal radiography. Rib destruction adjacent to a peripheral lung mass is virtually diagnostic of chest wall involvement by lung cancer. Benign pressure erosion of a rib is characteristic of neurogenic neoplasms or chest wall vascular abnormalities such as dilated intercostal arteries in a patient with coarctation of the aorta. In patients with anasarca due to fluid administration, there may be marked swelling of the soft tissues lateral to the ribs. Larger chest wall masses may produce an “incomplete border sign” radiographically, as the mass creates a visible interface with atmospheric air (or if intrathoracic with the adjacent lung). Soft tissue calcification may indicate prior trauma (myositis ossificans), collagen vascular disease (dermatomyositis), or the presence of a vascular lesion (hemangioma) or a bone-forming malignancy (osteosarcoma or chondrosarcoma). Gas within the chest wall could indicate an air leak in the setting of trauma, pneumomediastinum, or pneumothorax (Table 1.4).
+
+Table 1.4  
+Chest wall abnormalities  
+
+| Finding           | Condition                                                             |
+|-------------------|------------------------------------------------------------------------|
+| Absence           | S/P mastectomy, Poland syndrome                                        |
+| Shape             | Pectus excavatum, carinatum                                            |
+| Bone destruction  | Peripheral lung cancer, metastasis, infection                          |
+| Swelling          | Anasarca, localized edema                                              |
+| Mass              | Breast cancer                                                          |
+| Calcification     | Dermatomyositis, sarcoma, tumoral calcinosis                           |
+| Gas               | Air leak from chest, S/P laparoscopy, S/P drainage of pneumothorax      |
+
+Key Point
+Chest wall masses typically demonstrate an incomplete border sign as only a portion of the circumference of the mass is typically outlined by atmospheric air or intrapulmonary gas.
+
+1.6. Mediastinum
+The mediastinum is the space between the mediastinal pleural reflections bound anteriorly by the sternum and posteriorly by the thoracic vertebrae. It courses from the thoracic inlet superiorly to the diaphragm inferiorly. It contains the heart, pericardium, central great vessels, esophagus, trachea, carina and proximal main stem bronchi, the thoracic duct, lymph nodes, and mediastinal fat. The radiologist must be familiar with the normal mediastinal structures, their contours, and the normal mediastinal lines, stripes, and interfaces to detect mediastinal abnormalities radiographically.
+
+1.6.1. Heart
+The right cardiac border is formed by the right atrium. From inferior to superior, the left cardiac border is formed by the left ventricle and a small portion of the left atrial appendage. The right ventricle projects anteriorly and inferiorly on the lateral chest radiograph, with the posterior cardiac border formed by the left ventricle inferiorly and the left atrium superiorly.
+
+The heart must be assessed for its shape, size, and location. Abnormal cardiac shift may reflect ipsilateral loss of volume (e.g., lobar atelectasis) or contralateral increased volume (e.g., a large pneumothorax). The normal pericardium is not visible radiographically. Enlargement of the cardiac silhouette may result from cardiac enlargement and/or pericardial effusion. When large, the latter may manifest with a “water bottle heart” on frontal chest radiographs or with the “epicardial fat pad sign” on lateral radiography. The “epicardial fat pad sign” results from visualization of pericardial effusion as a curvilinear band of soft tissue >2 mm thick outlined by mediastinal fat anteriorly and subepicardial fat posteriorly. Constrictive pericarditis may manifest with linear pericardial calcification. Cardiac calcifications may correspond to coronary artery, valvular or annular calcifications, or curvilinear calcification in a left ventricular aneurysm from prior myocardial infarction.
+
+1.6.2. Systemic Arteries
+The normal aortic arch is readily visible on radiography and characteristically produces an indentation on the left tracheal wall. With increasing aortic atherosclerosis and tortuosity, a larger portion of the aorta is visible and may exhibit intimal atherosclerotic calcification. The left para-aortic interface projects through the left heart and courses vertically toward the abdomen. The left subclavian artery is seen as a concave left supra-aortic mediastinal interface on frontal chest radiography. A right aortic arch is usually associated with a right descending thoracic aorta. In the absence of associated congenital heart disease, right aortic arch is usually associated with non-mirror image branching characterized by an aberrant left subclavian artery which may be seen as an indentation on the posterior trachea on lateral chest radiography.
+
+1.6.3. Systemic Veins
+The azygos arch is visible at the right tracheobronchial angle and normally measures <1 cm in the upright position. The azygos arch may be contained within an accessory azygos fissure, an anatomic variant. Enlargement of the azygos arch may occur in azygos continuation of the inferior vena cava, in which the vertical portion of the azygos vein manifests as a right-sided vertical mediastinal interface.
+
+The right lateral margin of the superior vena cava is normally visible as it interfaces with the medial right upper lobe. The inferior vena cava may be visible as it creates a concave interface with the right lower lobe in the right cardiophrenic angle prior to its entry into the right atrium. The posterior margin of the inferior vena cava is most evident on lateral radiography as its posterior concave margin is outlined by lung.
+
+1.6.4. Pulmonary Arteries
+Enlargement of the central pulmonary arteries may represent pulmonary hypertension and is typically associated with enlargement of the pulmonary trunk. The pulmonary trunk is visible as a left mediastinal interface located above the heart and below the aorta on frontal chest radiography.
+
+1.6.5. Lines, Stripes, and Interfaces
+The anterior and posterior junction lines represent the interface between the right and left upper lobes anterior to the great vessels (anterior junction line) and posterior to the esophagus, superior to the aortic arch, and anterior to the upper thoracic spine (posterior junction line). These lines may be thickened by fat, lymphadenopathy, or mediastinal masses. The paravertebral stripes may be thickened by lymphadenopathy fat or may be displaced laterally by a paravertebral hematoma or infection. An abnormal convex contour of the upper azygoesophageal recess may result from subcarinal lymphadenopathy or a bronchogenic cyst, while a hiatus hernia often produces convexity of the lower 1/3rd of the azygoesophageal recess. Convexity of the aortopulmonary reflection normally a flat or concave interface below the aortic arch and above the main pulmonary artery may be caused by lymphadenopathy in the aortopulmonary window, mediastinal mass, or anomalous vasculature.
+
+1.6.6. Mediastinal Masses (Table 1.5)
+Mediastinal masses include primary and secondary neoplasms, mediastinal cysts, vascular lesions, glandular enlargement (thyroid and thymus), and hernias (hiatus and Morgagni). As 10% of mediastinal masses are vascular in etiology, a vascular lesion should always be considered in a patient with a mediastinal contour abnormality.
+
+Table 1.5  
+Differential diagnosis of mediastinal masses  
+
+| Anterior              | Middle                        | Posterior                          |
+|------------------------|--------------------------------|------------------------------------|
+| Lymphoma               | Lung cancer                    | Schwannoma/neurofibroma            |
+| Thymic neoplasm        | Lymph node enlargement/mass     | Ganglion cell tumor                |
+| Germ cell neoplasm     | Foregut/pericardial cyst        | Descending aortic aneurysm         |
+| Thyroid goiter         | Hiatus hernia                   | Paravertebral hematoma/abscess     |
+
+The first step in the assessment of a mediastinal mass is determining that there is indeed a mediastinal abnormality. Focal unilateral mediastinal masses are typically primary neoplasms, enlarged lymph nodes, cysts, and vascular aneurysms or anomalous vessels. While diffuse symmetric mediastinal widening without mass effect can be seen in mediastinal lipomatosis, when lobulated or asymmetric, it should suggest lymphadenopathy in advanced lung cancer, metastatic disease, or lymphoma or in patients with chest trauma mediastinal hematoma associated with vascular injury. Mediastinal masses should then be localized within a mediastinal compartment based on the lateral chest radiograph. For the purposes of localizing masses and providing a concise differential diagnosis, the mediastinum is divided radiographically into the anterior, middle, and posterior compartments. The middle mediastinum encompasses the heart, pericardium, aorta and great vessels, systemic and pulmonary veins, trachea, carina, and esophagus. Ancillary findings should be noted such as benign pressure erosion in patients with paravertebral masses (typical of neurogenic tumors). The cervicothoracic sign or obscuration of an abnormal mediastinal contour as it extends above the clavicle into the neck allows lesion localization in both the thorax and the neck, for which the most frequent etiology is intrathoracic goiter. Clinical factors such as age, gender, and presence or absence of symptoms allow the radiologist to provide a focused differential diagnosis prior to proceeding to cross-sectional imaging. Mediastinal widening in the setting of trauma may represent hemorrhage from traumatic vascular injury.
+
+Key Point
+The most common anterior mediastinal masses in adults are lymphoma and thymic neoplasms.
+1.6.7. Mediastinal Calcification
+The most common cause of mediastinal/hilar calcifications is calcified lymph nodes from prior granulomatous disease such as tuberculosis, histoplasmosis, and sarcoidosis. Patients with treated mediastinal lymphoma may demonstrate mass-like calcification, while specific mediastinal neoplasms such as thymoma and mature teratomas may contain de novo calcification evident radiographically.
+
+1.6.8. Pneumomediastinum
+While gas may normally be evident radiographically within the trachea, central bronchi, and esophagus, mediastinal gas located outside of these structures is abnormal and usually reflects air leak from the lung or disruption of the central airways or esophagus. Pneumomediastinum is seen as linear and curvilinear lucencies outlining mediastinal structures such as the heart, trachea, and central diaphragm. The most common cause of pneumomediastinum is alveolar rupture in patients with airway obstruction due to asthma or intubated patients receiving mechanical ventilation. Blunt chest trauma can also lead to alveolar rupture and pneumomediastinum. The combination of pneumomediastinum with left lower lobe lung consolidation and a left pleural effusion or pneumothorax in a patient who has had prolonged vomiting or retching should prompt consideration of esophageal rupture or Boerhaave syndrome, which is a surgical emergency associated with high mortality.
+
+1.7. Hila
+On normal frontal chest radiographs, the right hilum is lower than the left in 97% of cases, and the hila are at the same level in 3% of cases. Alterations of this relationship should suggest volume loss on the affected side due to atelectasis, scarring, or prior lung resection. The right hilum is anterior to the left on lateral chest radiography. The intermediate stem line, visible on the lateral chest radiograph, represents the posterior wall of the bronchus intermedius and should be assessed for abnormal thickening which may be seen in interstitial edema and central malignancies.
+
+Hilar disease may manifest radiographically as increase (Table 1.6) or decrease in size, an increase in density, or abnormal convexity of the hilum or hila. Hilar enlargement most often results from a central neoplasm, lymph node enlargement, or enlarged central pulmonary arteries as in pulmonary hypertension. The hilar convergence sign refers to enlarged vessels coursing toward the enlarged hilum and signifies a vascular etiology.
+
+Table 1.6  
+Causes of hilar enlargement  
+
+| Unilateral                           | Bilateral                              |
+|--------------------------------------|----------------------------------------|
+| Lung cancer                          | Sarcoidosis                            |
+| Infection (granulomatous)            | Metastatic lymph node enlargement      |
+| Metastatic lymph node enlargement    | Pulmonary arterial hypertension        |
+| Lymphoma                             | Lymphoma                               |
+| Valvular pulmonic stenosis (left)    | Infection (granulomatous)              |
+
+1.8. Lungs
+1.8.1. Lung Volumes
+Lung volume may be increased in obstructive diseases such as emphysema and is reduced in restrictive diseases such as pulmonary fibrosis and in patients with pleural fibrosis (“trapped lung”), neuromuscular disease (myasthenia gravis, amyotrophic lateral sclerosis, diaphragmatic dysfunction in systemic lupus erythematosus), or extrathoracic disorders (obesity, ascites).
+
+Atelectasis may involve the entire lung, a lobe, and a pulmonary segment or may be subsegmental. Obstructive (resorption) atelectasis is characterized by absence of intrinsic air bronchograms. It may result from endoluminal obstruction, most often from a mucus plug as seen in asthma, bronchitis, or mechanically ventilated patients, although a centrally obstructing neoplasm such as lung cancer must be excluded.
+
+Relaxation (passive) atelectasis often results from mass effect upon the lung, most commonly pleural effusion. Cicatricial atelectasis is due to pulmonary fibrosis. Rounded atelectasis occurs adjacent to pleural thickening in which the subpleural lung, most commonly in the lower posterior part of the chest, “folds” upon itself.
+
+Direct signs of lobar atelectasis include fissural displacement, bronchovascular crowding, and shift of a preexisting lung nodule or calcified granuloma. Indirect signs include increased pulmonary density, ipsilateral mediastinal shift, hilar displacement, ipsilateral hemidiaphragm elevation, and compensatory hyperinflation of the adjacent lung.
+
+Key Point
+The most concerning cause of obstructive (resorptive) atelectasis in an adult is an endobronchial neoplasm such as lung cancer or a carcinoid tumor.
+1.8.2. Parenchymal Opacities
+Parenchymal opacities include air space and interstitial processes. Pneumonia typically manifests with air space opacification due to alveolar filling by purulent material and may be lobar or sublobar or may manifest with patchy pulmonary opacities. Air space opacification often exhibits intrinsic air bronchograms and may also result from alveolar edema or hemorrhage (Table 1.7).
+
+Table 1.7  
+Differential diagnosis of air space opacification (ASO)  
+
+| Finding(s)              | Disease                                                                                                  |
+|--------------------------|-----------------------------------------------------------------------------------------------------------|
+| Focal/segmental          | Pneumonia, contusion, infarct, lung cancer (adenocarcinoma)                                               |
+| Lobar                    | Pneumonia, endogenous lipoid pneumonia, adenocarcinoma                                                    |
+| Patchy                   | Pneumonia, aspiration, organizing pneumonia, contusions, adenocarcinoma, metastases                       |
+| Diffuse                  | Edema, hemorrhage, pneumonia                                                                              |
+| Perihilar                | Edema, hemorrhage                                                                                        |
+| Peripheral               | Eosinophilic pneumonia, organizing pneumonia, acute respiratory distress syndrome, contusions             |
+| Rapidly changing/resolving | Edema, eosinophilic pneumonia, hemorrhage                                                                |
+
+Interstitial opacities may manifest with reticular, linear, and/or small nodular opacities. As the normal interstitium is not visible radiographically, visualization of peripheral subpleural reticular opacities is always abnormal. A reticulonodular pattern occurs when abnormal reticular opacities are superimposed on micronodular opacities. Interstitial opacities frequently result from interstitial edema characterized by perihilar haze, peribronchial thickening, septal thickening (Kerley B lines), and subpleural edema often associated with cardiomegaly and pleural effusion. Associated radiographic findings can help limit the differential diagnosis of interstitial disease (Table 1.8).
+
+Table 1.8  
+Ancillary findings in patients with ILD and differential considerations  
+
+| Finding(s)                   | Disease                                                                                                      |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Hilar lymph node enlargement  | Sarcoidosis, lymphangitic carcinomatosis, viral pneumonia                                                    |
+| Clavicular/osseous erosions   | Rheumatoid arthritis–associated UIP                                                                          |
+| Pleural effusions             | Infection, edema                                                                                             |
+| Pleural plaques               | Asbestosis                                                                                                   |
+| Hyperinflation                | Langerhans cell histiocytosis, stage IV sarcoidosis, lymphangioleiomyomatosis, emphysema with UIP            |
+| Esophageal dilatation         | Scleroderma-associated UIP, recurrent aspiration                                                             |
+| Conglomerate masses           | Silicosis, coal worker’s pneumoconiosis, sarcoidosis, talcosis                                               |
+| Basilar sparing               | Langerhans cell histiocytosis, sarcoidosis                                                                   |
+| Basilar predominance          | UIP, fibrotic NSIP, aspiration                                                                               |
+
+Cells and fibrosis may also infiltrate the pulmonary interstitium, producing reticular and reticulonodular interstitial opacities in diseases such as sarcoidosis, silicosis, and lymphangitic carcinomatosis.
+
+The idiopathic interstitial pneumonias are a distinct group of disorders often characterized by basilar predominant pulmonary fibrosis associated with volume loss. The diagnosis usually requires further imaging with high-resolution chest CT (HRCT).
+
+Key Point
+Chronic, basal predominant ILD is most often due to usual interstitial pneumonia (UIP) or fibrotic nonspecific interstitial pneumonia (NSIP). Both conditions produce basilar reticular interstitial opacities with fibrosis and can be difficult to distinguish clinically and on imaging; biopsy is often necessary for definitive diagnosis in patients lacking CT findings of UIP.
+A solitary pulmonary nodule (SPN) is defined as a round or ovoid opacity <3 cm in diameter. A benign pattern of intrinsic calcification in a smooth or slightly lobulated SPN reflects a granuloma or hamartoma and precludes further imaging evaluation.
+
+However, the presence of calcification can be difficult to discern on standard high-kVp chest radiographs. CT provides superior contrast resolution, and thin-section scans can detect calcification that is not evident radiographically. The majority of SPNs are indeterminate on radiography and require further assessment and characterization with thin-section computed tomography (CT) to exclude malignancy (Table 1.9).
+
+Table 1.9  
+Common causes of a solitary pulmonary nodule  
+
+| Cause                              |
+|------------------------------------|
+| Granuloma                          |
+| Hamartoma                          |
+| Malignancy: lung cancer, carcinoid tumor, metastasis |
+| Focal organizing pneumonia         |
+
+Key Point
+While chest radiography can detect a solitary pulmonary nodule (SPN), thin-section CT will almost invariably be needed to characterize an SPN for possible malignancy.
+A pulmonary mass is a round or ovoid pulmonary opacity ≥3 cm in diameter and is highly suspicious for malignancy, typically lung cancer. The radiologist should look for pertinent ancillary findings of malignancy including other lung nodules, local invasion of adjacent structures, lymphadenopathy, and pleural effusion.
+
+Abnormal lucency can be difficult to detect radiographically as the lungs are predominantly air filled. The most common localized lucent lesion is a bulla, seen as a focal lucency >1 cm diameter demarcated from adjacent lung by a uniform, thin (<1 mm) wall. Unilateral lucency can relate to technical issues, chest wall defects, or parenchymal abnormalities as seen in the Swyer-James or unilateral hyperlucent lung syndrome, which is a post-infectious obliterative bronchiolitis that results in air trapping and decreased lung vascularity. Bilateral hyperlucency is most often seen in severe emphysema or in patients with acute asthma exacerbation.
+
+
+1.9. Airways
+The trachea and bronchi should be assessed for size, patency, and course. Tracheal narrowing may be focal or diffuse (Table 1.10). Focal tracheal narrowing or stenosis most often occurs secondary to mucosal or cartilaginous damage from prolonged intubation. More diffuse tracheal narrowing is most common in patients with COPD in which there is narrowing of the transverse diameter of the tracheal lumen, the so-called saber-sheath trachea. Primary or metastatic airway neoplasms may manifest as endoluminal soft tissue nodules that may be associated with volume loss. Endotracheal tumors may grow to obstruct up to 75% of the airway lumen before symptoms ensue. Airway neoplasms may also manifest as focal or diffuse airway stenosis and must be differentiated from inflammatory conditions. Tracheal dilatation seen in the Mounier-Kuhn syndrome is a rare congenital condition characterized by tracheal and bronchial dilatation due to atrophy of the muscular and elastic tissues of the trachea and main bronchi. The trachea may deviate toward a region of upper lobe volume loss, as seen in upper lobe fibrosis, or may be displaced by a mass in the thoracic inlet such as an enlarged thyroid.
+
+Table 1.10  
+Tracheal abnormalities seen radiographically  
+
+| Finding               | Type           | Associated conditions                                                                                  |
+|------------------------|----------------|--------------------------------------------------------------------------------------------------------|
+| Tracheal deviation     | Ipsilateral     | Upper lobe volume loss (fibrosis)                                                                      |
+|                        | Contralateral   | Thyroid/thoracic inlet mass                                                                            |
+| Tracheal narrowing     | Focal           | Stenosis post intubation or tracheostomy, TB, fungal infection, thyroid mass (extrinsic compression)   |
+|                        | Diffuse         | Saber-sheath trachea, relapsing polychondritis, granulomatosis with polyangiitis, amyloidosis, congenital (complete tracheal rings) |
+| Tracheal dilation      | Focal           | Tracheomalacia                                                                                        |
+|                        | Diffuse         | Pulmonary fibrosis, Mounier-Kuhn syndrome (tracheobronchomegaly)                                      |
+| Tracheal mass          | —               | Squamous cell carcinoma, metastasis, adenoid cystic carcinoma, hamartoma, foreign body/mucus          |
+
+Bronchiectasis is abnormal irreversible bronchial dilatation and may result from infection, cystic fibrosis, primary ciliary dyskinesia, or allergic bronchopulmonary fungal disease. It is seen radiographically as tram tracks which represent the thickened bronchial walls in cylindrical bronchiectasis and clustered, thin-walled cystic lesions in cystic bronchiectasis.
+
+
+1.10. Pleura/Diaphragm
+Pleural abnormalities manifest radiographically as gas (pneumothorax) or fluid (pleural effusion) in the pleural space or as abnormalities of the pleural surfaces including thickening (pleural plaques, neoplasms) and calcification (pleural plaques, fibrothorax).
+
+Pneumothorax is seen on upright chest radiography as a superior lucency that parallels the chest wall and outlines the curvilinear visceral pleural line that is inwardly displaced from the chest wall. Pneumothorax may be spontaneous or traumatic. Spontaneous pneumothorax is categorized as primary (no underlying lung disease) and secondary (underlying lung disease).
+
+The radiographic appearance of pleural effusion depends on the amount of fluid, whether the fluid is free-flowing or loculated, and the position of the patient when the radiograph is obtained. A small, free-flowing pleural effusion in an upright patient manifests radiographically as a meniscus blunting the posterior costophrenic sulcus on lateral radiography, with larger effusions blunting the lateral costophrenic sulcus on frontal radiography and effusions exceeding 500 mL in volume obscuring the hemidiaphragm. Loculated pleural effusions are typically infected (so-called parapneumonic effusions and empyemas) and produce biconvex mass-like opacities along the dependent costal pleural surfaces. In such cases, an air fluid level in the pleural space in the absence of prior intervention is diagnostic of a bronchopleural fistula. Massive pleural effusions and pleural effusions with associated pleural nodules should suggest malignancy in the absence of trauma. Identification of circumferential nodular pleural thickening is virtually diagnostic of malignancy, with the main diagnostic considerations including metastatic disease, malignant pleural mesothelioma, and lymphoma.
+
+The diaphragm is a domed structure, with the right slightly higher than the left owing to the position of the heart on the left. A uniformly elevated diaphragm is most often due to weakness or paralysis of the diaphragm, while focal bulges in the diaphragmatic contour are typically due to eventration (thinning) of the diaphragm or diaphragmatic hernia through a congenital or acquired diaphragmatic defect.
+
+Key Point
+Loculated pleural effusions often manifest radiographically as vertically oriented biconvex pleural opacities and are usually associated with underlying lung infection (termed parapneumonic effusions).

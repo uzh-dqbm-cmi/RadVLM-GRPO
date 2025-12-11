@@ -1,0 +1,1 @@
+All files under this vllmedic folder is from [vilmedic/](https://github.com/jbdel/vilmedic/tree/main/vilmedic/blocks/scorers) [rev 5094505](https://github.com/jbdel/vilmedic/commit/509450500c7c65ec57bf4aa4ced38ba3f06e8eec)
