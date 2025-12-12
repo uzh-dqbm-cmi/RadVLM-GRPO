@@ -1,4 +1,8 @@
-# RadVLM-GRPO
+# Enhancing Radiology Report Generation and Visual Grounding using Reinforcement Learning
+
+[![arXiv](https://img.shields.io/badge/arXiv-2512.10691-b31b1b.svg)](https://arxiv.org/abs/2512.10691) [![PhysioNet](https://img.shields.io/badge/Dataset-PhysioNet-blue)](https://physionet.org/content/radvlm-instruction-dataset/1.0.0/)
+
+We improve the report generation and visual grounding capabilities of RadVLM (chest X-ray VLM) using GRPO.
 
 ## Overview
 <img src="images/RadVLM-GRPO.png" width="100%">
@@ -29,6 +33,7 @@ RadEval/RadEval/factual/RadCliQv1/ # Code for RadCliQ
 
 RadVLM/ # Evaluation code
 
+# you need to clone these first, see bash scripts in the directory
 repos_deps/GREEN # Code for GREEN repo in case you want to eval it, pip install it first
 
 repos_deps/LLaVA-Rad # Code for LLaVA-Rad repo in case you want to eval it, pip install it first
@@ -107,14 +112,7 @@ see
 RadVLM/README.md
 ```
 
-# Acknowledgments
-
-This work was supported as part of the Swiss AI Initiative by a grant from the Swiss
-National Supercomputing Centre (CSCS) under project ID a135 on Alps. BG received
-support from the Swiss National Science Foundation (SNSF) grant 10003518. ND received
-support from RADICAL (Project-Call 2024.1, ID:9), funded by the DIZH
-
-# Licensing
+## Licensing
 
 This repo contains components under multiple licenses.
 
@@ -138,3 +136,27 @@ If an individual file contains an explicit license notice, that file's notice
 takes precedence over both the default license and the subdirectory license.
 
 Please refer to the LICENSE files in each directory for terms and licenses in the files themselves.
+
+## Citation
+
+Is you use this work, please cite:
+```
+@misc{gundersen2025enhancingradiologyreportgeneration,
+      title={Enhancing Radiology Report Generation and Visual Grounding using Reinforcement Learning}, 
+      author={Benjamin Gundersen and Nicolas Deperrois and Samuel Ruiperez-Campillo and Thomas M. Sutter and Julia E. Vogt and Michael Moor and Farhad Nooralahzadeh and Michael Krauthammer},
+      year={2025},
+      eprint={2512.10691},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2512.10691}, 
+}
+```
+
+## Acknowledgments
+
+This work was supported as part of the Swiss AI Initiative by a grant from the Swiss
+National Supercomputing Centre (CSCS) under project ID a135 on Alps. BG received
+support from the Swiss National Science Foundation (SNSF) grant 10003518. ND received
+support from RADICAL (Project-Call 2024.1, ID:9), funded by the DIZH
+
+
