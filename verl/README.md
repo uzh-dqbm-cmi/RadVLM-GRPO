@@ -74,31 +74,23 @@ jobs/
 
 For example 
 ```
-jobs/mimic_radvlm_instruct_radcliq.sh
+jobs/report_radcliq_run.sh
 ```
 
-will get 9 nodes (8 for RL, 1 for radcliq reward) and call
+will require 9 nodes (8 for RL, 1 for radcliq reward).
+
+and define these in each run file:
 
 ```
-jobs/mimic_radvlm_instruct_radcliq.sh
-```
-
-and update these:
-
-```
-WORK_DIR=/users/user/repos/RadVLM-GRPO/verl
+WORK_DIR=
+DATA_DIR=
+MODEL_DIR=
 ```
 
 the scripts might also rely on other paths like the path to the GREEN repo or the RadEval repo so you need to change them too so you can install them.
 
 
-And similarily in the respective *_run.sh update these:
-```
-export WORK_DIR=/users/user/repos/RadVLM-GRPO/verl
-export DATA_DIR=$SCRATCH/
-```
-
-This script will setup the ray master on node 0, the 32 radcliq reward model on node 1, and the remaining 7 nodes are ray worker nodes. Other scrips like the google bleu will only request 8 nodes. Since this one sets up radcliq it will also install RadEval. Note that you might have to change paths and so on in the scripts based on where you put your files and folders.
+This script will setup the ray master on node 0, the 32 radcliq reward model on node 1, and the remaining 8 nodes are ray worker nodes. Other scrips like the google bleu will only request 8 nodes. Since this one sets up radcliq it will also install RadEval. Note that you might have to change paths and so on in the scripts based on where you put your files and folders.
 
 Note that these scripts are written to run on clariden (CSCS Alps) and if you are running them somewhere else you might have to make changes, potentially large ones.
 
