@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+#export DATA_DIR=
+#export MODEL_DIR=
+#export WORK_DIR=
+
 export SLURM_CPUS_PER_TASK=288
 export SLURM_GPUS=4
 echo "${SLURM_PROCID}"
@@ -16,7 +20,7 @@ export VLLM_USE_MULTIPROC=1
 export CUDA_VISIBLE_DEVICES=0,1,2,3
 export VLLM_NCCL_SO_PATH=/usr/lib/aarch64-linux-gnu/
 export TORCH_CUDA_ARCH_LIST="9.0a"
-export WORK_DIR=/users/user/repos/RadVLM-GRPO/verl
+
 cd $WORK_DIR
 
 export SAVE_PATH=$SCRATCH/checkpoints/${SLURM_JOB_NAME}

@@ -20,8 +20,7 @@ export VLLM_USE_MULTIPROC=1
 export CUDA_VISIBLE_DEVICES=0,1,2,3
 export VLLM_NCCL_SO_PATH=/usr/lib/aarch64-linux-gnu/
 export TORCH_CUDA_ARCH_LIST="9.0a"
-export WORK_DIR=/users/user/repos/RadVLM-GRPO/verl
-#export DATA_DIR=$SCRATCH/
+
 cd $WORK_DIR
 
 export SAVE_PATH=$SCRATCH/checkpoints/${SLURM_JOB_NAME}
