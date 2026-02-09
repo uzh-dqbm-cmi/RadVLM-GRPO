@@ -25,6 +25,7 @@ custom_rewards/radcliq_reward.py
 custom_rewards/bertscore_reward.py
 custom_rewards/google_bleu_reward.py
 custom_rewards/radgraph_reward.py
+custom_rewards/grounding_reward.py
 ```
 
 Radcliq, bertscore, and radgraph rewards rely on models which can be started up like described in the following files, note that the job scripts themselves already start them correctly.
