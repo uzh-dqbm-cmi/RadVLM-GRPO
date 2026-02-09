@@ -1,15 +1,3 @@
-#!/bin/bash
-#SBATCH -A a135                          # your project account
-#SBATCH --job-name=qwen2.5vl_full_qwen3VLCS        # job name
-#SBATCH --nodes=8                       # total nodes
-#SBATCH --ntasks-per-node=1              # one launcher per node
-#SBATCH --gpus-per-task=4               # GPUs per node
-#SBATCH --time=04:00:00                  # walltime
-#SBATCH --partition=normal               # partition
-#SBATCH --output=job_outputs/%x.txt      # STDOUT → job_outputs/JOBNAME.txt
-
-# ─────────── ensure output dir exists ───────────
-mkdir -p job_outputs
 
 # ─────────── cluster‐wide env ───────────────────
 export MASTER_ADDR=$(scontrol show hostnames $SLURM_JOB_NODELIST | head -n1)
