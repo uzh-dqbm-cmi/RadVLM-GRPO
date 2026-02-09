@@ -17,7 +17,6 @@ export CUDA_VISIBLE_DEVICES=0,1,2,3
 export VLLM_NCCL_SO_PATH=/usr/lib/aarch64-linux-gnu/
 export TORCH_CUDA_ARCH_LIST="9.0a"
 export WORK_DIR=/users/user/repos/RadVLM-GRPO/verl
-export DATA_DIR=$SCRATCH/
 cd $WORK_DIR
 
 export SAVE_PATH=$SCRATCH/checkpoints/${SLURM_JOB_NAME}
@@ -50,7 +49,7 @@ echo "master node ip ${MASTER_NODE_IP}"
 echo "reward node ip ${REWARD_NODE_IP}"
 
 # ----- ray setup
-export PORT=6542
+export PORT=6553
 export RAY_ADDRESS="${MASTER_NODE_IP}:${PORT}"
 
 export WANDB_RUN_ID=${SLURM_JOB_NAME}
@@ -129,15 +128,15 @@ if [[ $SLURM_PROCID -eq 0 ]]; then
 export HF_HUB_OFFLINE=0
 python3 -m verl.trainer.main_ppo \
     algorithm.adv_estimator=grpo \
-    data.train_files="${DATA_DIR}/data/mimic_qwen3vl_thinking/train.parquet" \
-    data.val_files="${DATA_DIR}/data/mimic_qwen3vl_thinking/val.parquet" \
+    data.train_files=$DATA_DIR/train.parquet \
+    data.val_files=$DATA_DIR/val.parquet \
     data.train_batch_size=512 \
     data.max_prompt_length=3072 \
-    data.max_response_length=4096 \
+    data.max_response_length=1024 \
     data.filter_overlong_prompts=False \
     data.truncation="error" \
     data.image_key=images \
-    actor_rollout_ref.model.path=Qwen/Qwen3-VL-8B-Thinking \
+    actor_rollout_ref.model.path=${MODEL_PATH}  \
     actor_rollout_ref.actor.optim.lr=1e-6 \
     actor_rollout_ref.model.use_remove_padding=True \
     actor_rollout_ref.model.use_fused_kernels=True \
