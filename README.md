@@ -68,7 +68,7 @@ here are the respecive paths:
 ```
 RadVLM/
 verl/
-# TODO llama factory
+LLaMa-Factory/
 RadEval 
 ```
 
@@ -80,6 +80,14 @@ When evaluating with RadVLM and use vllm for inference, we use the verl dataload
 cd verl/
 pip install -e .
 ```
+
+When performing finetuning on RadVLM instruction dataset, please follow:
+
+```
+cd verl/
+pip install -e .
+```
+and check the associated README for guidance. 
 
 When using RadCliQ you need to install RadEval.
 ```
