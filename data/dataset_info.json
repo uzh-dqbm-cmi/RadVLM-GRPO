@@ -1,0 +1,46 @@
+{
+  "radvlm_dataset": {
+    "file_name": "/capstor/scratch/cscs/ndeperr/code/RadVLM-r1/RadVLM/radvlm/data/llava_datasets/all_train_reduced.json",
+    "formatting": "sharegpt",
+    "num_samples":500,
+    "columns": {
+      "messages": "conversations",
+      "images": "image"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "value",
+      "user_tag": "human",
+      "assistant_tag": "gpt"
+    }
+  },
+  "coldstart_grounding": {
+    "file_name": "/capstor/scratch/cscs/ndeperr/code/RadVLM-r1/RadVLM/radvlm/data/llava_datasets/cold_start_grounding_qwen3VL.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "image"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "value",
+      "user_tag": "human",
+      "assistant_tag": "gpt"
+    }
+  },
+  "coldstart_mimic": {
+    "file_name": "/capstor/store/cscs/swissai/a135/RadVLM_project/cold_start/qwen3_30b/cs_report_gen_mimic_xcr_qwen_3_30b_7543.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "image"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "value",
+      "user_tag": "human",
+      "assistant_tag": "gpt"
+    }
+  }
+
+}
