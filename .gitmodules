@@ -1,0 +1,3 @@
+[submodule "LLaMA-Factory"]
+	path = LLaMA-Factory
+	url = git@github.com:NicoZenith/LLaMA-Factory.git
