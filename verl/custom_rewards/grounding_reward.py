@@ -109,7 +109,7 @@ def compute_score(data_source, solution_str: str, ground_truth, extra_info) -> f
 
     #Find the FIRST closing </think> and capture everything after it (till end of string)
 
-    if extra_info["thinking"]:
+    if data_source=="mimic_grpo_reasoning":
         m = re.search(r"</think>\s*(.*)\Z", solution_str or "", flags=re.I | re.S)
         if not m:
             return 0.0
@@ -117,8 +117,10 @@ def compute_score(data_source, solution_str: str, ground_truth, extra_info) -> f
         post_think_text = (m.group(1) or "").strip()
         if not post_think_text:
             return 0.0
-    else:
+    elif data_source=="mimic_grpo":
         post_think_text = solution_str.strip()
+    else:
+        assert False, "incorrect data source."
 
 
     # Predicted boxes from text after </think>
