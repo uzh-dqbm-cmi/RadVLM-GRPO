@@ -207,23 +207,6 @@ This file contains a list of dictionaries, each following this structure:
 ```
 where `"image"` refers to the absolute path of the image, `"conversations"` contains the user-assistant instruction (single or multi-turn), and `"id"` is an arbitrary datapoint tag. This structure follows the LLaVA dataset format and can directly be used within their corresponding training script (https://github.com/LLaVA-VL/LLaVA-NeXT/tree/main/scripts/train).
 
-## Finetuning with LLaVA-OneVision
-
-In the `finetuning` directory, we forked from the [official LLaVA-OneVision repo](https://github.com/LLaVA-VL/LLaVA-NeXT/tree/main) and adapted for the case of finetuning the RadVLM model on CXR data.
-
-### Create finetuning environment 
-Install the packages that are specific to LLaVA-OneVision repository.
-```
-conda create -n llava python=3.10 -y
-conda activate llava
-cd finetuning
-pip install --upgrade pip
-pip install -e ".[train]"
-```
-### Training
-The training script `finetune_radio_7b.sh` is provided in the `script` folder. It is adapted to train a base [llava-onevision checkpoint](https://huggingface.co/lmms-lab/llava-onevision-qwen2-7b-si) on the curated Instruction dataset of RadVLM from the previous steps (`all_train.json`).
-The training script accesses this dataset via the argument `data_path`, hyperparameters such as learning rate or number of epochs can be modified at convenience, as well as the training starting point that could be an already trained checkpoint. 
-
 ## Evaluation 
 
 For the evaluation, activate the `radvlm` environment previously created:
