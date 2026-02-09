@@ -81,14 +81,6 @@ cd verl/
 pip install -e .
 ```
 
-When performing finetuning on RadVLM instruction dataset, please follow:
-
-```
-cd verl/
-pip install -e .
-```
-and check the associated README for guidance. 
-
 When using RadCliQ you need to install RadEval.
 ```
 cd RadEval/
@@ -102,6 +94,14 @@ pip install -e . --no-deps
 ```
 
 Feel free to also set up your environment directly with everything installed.
+
+### RadVLM SFT 
+
+see 
+
+```
+LLaMa-Factory/README.md
+```
 
 
 ### GRPO training
