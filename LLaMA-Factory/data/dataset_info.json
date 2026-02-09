@@ -1,0 +1,45 @@
+{
+  "radvlm_dataset": {
+    "file_name": "path/to/json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "image"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "value",
+      "user_tag": "human",
+      "assistant_tag": "gpt"
+    }
+  },
+  "coldstart_grounding": {
+    "file_name": "path/to/json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "image"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "value",
+      "user_tag": "human",
+      "assistant_tag": "gpt"
+    }
+  },
+  "coldstart_mimic": {
+    "file_name": "path/to/json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "image"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "value",
+      "user_tag": "human",
+      "assistant_tag": "gpt"
+    }
+  }
+
+}
