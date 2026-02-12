@@ -66,16 +66,16 @@ def load_dataset(task, data_dir):
     """
     if task == "abnormality_classification":
         dataset_path = os.path.join(data_dir, "CheXpert")
-        dataset = CheXpert_Dataset_MM(datasetpath=dataset_path, split="valid", flag_img=False)
+        dataset = CheXpert_Dataset_MM(datasetpath=dataset_path, split="test", flag_img=False)
 
     elif task == "abnormality_grounding":
         dataset_path = os.path.join(data_dir, "VinDr-CXR")
         dataset = VinDr_CXR_Single_Label_Dataset(
-            datasetpath=dataset_path, split="valid", flag_img=False
+            datasetpath=dataset_path, split="test", flag_img=False
         )
     elif task == "abnormality_detection":
         dataset_path = os.path.join(data_dir, "VinDr-CXR") 
-        dataset = VinDr_CXR_Dataset(datasetpath=dataset_path, split="valid", flag_img = False)
+        dataset = VinDr_CXR_Dataset(datasetpath=dataset_path, split="test", flag_img = False)
     elif task == "report_generation":
         datasetpath = os.path.join(data_dir, 'MIMIC-CXR-JPG')
         filtered_reports = os.path.join(data_dir, 'MIMIC-CXR-JPG/filtered_reports')
@@ -92,7 +92,7 @@ def load_dataset(task, data_dir):
     elif task == "region_grounding" or task == "phrase_grounding":
         datasetpath = os.path.join(data_dir, 'MIMIC-CXR-JPG')
         datasetpath_chestima = os.path.join(data_dir, 'CHEST_IMA')
-        split = "valid"
+        split = "test"
         if task == "region_grounding":
             dataset = Chest_ImaGenome_Dataset(
             datasetpath=datasetpath,
@@ -108,7 +108,7 @@ def load_dataset(task, data_dir):
             datasetpath_mimic = os.path.join(DATA_DIR, 'MIMIC-CXR-JPG')
             datasetpath_mscxr = os.path.join(DATA_DIR, 'MS-CXR')
 
-            split = "valid"
+            split = "test"
             sentencesBBoxpath = os.path.join(datasetpath_mscxr, 'sentences_and_BBox_mscxr')
             dataset = MS_CXR(
                 datasetpath = datasetpath_mimic,
